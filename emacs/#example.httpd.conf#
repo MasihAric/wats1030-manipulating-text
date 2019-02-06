@@ -4,6 +4,7 @@ Listen 80
 # Listen for virtual host requests on all IP addresses
 DocumentRoot /www/unix
 ServerName www.unix.com
+
 </VirtualHost>
 
 <VirtualHost *:80>
